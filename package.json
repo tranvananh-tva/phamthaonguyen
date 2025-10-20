@@ -1,0 +1,15 @@
+{
+  "name": "cv-thao-nguyen",
+  "version": "1.0.0",
+  "description": "CV cá nhân hiện đại của Phạm Thị Thảo Nguyên",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server -p 3000 -c-1 --cors -a localhost",
+    "start": "http-server -p 3000 -c-1 --cors -a localhost"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": ["cv", "resume", "portfolio"],
+  "author": "Phạm Thị Thảo Nguyên"
+}
